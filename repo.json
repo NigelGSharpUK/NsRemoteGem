@@ -1,0 +1,11 @@
+{
+    "repo_name":"NsRemoteGemRepo",
+    "origin":"Ns",
+    "repo_uri": "https://raw.githubusercontent.com/NigelGSharpUK/NsRemoteGem/main",
+    "summary": "A Gem Repository with a single Gem in the root of the repository.",
+    "additional_info": "I have not supplied additional info",
+    "last_updated": "2022-07-18",
+    "gems": [
+        "https://raw.githubusercontent.com/AMZN-alexpete/NsReomteGem/main"
+    ]
+}

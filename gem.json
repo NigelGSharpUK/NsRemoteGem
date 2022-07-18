@@ -1,0 +1,23 @@
+{
+    "gem_name": "NsRemoteGem",
+    "display_name": "Nigels Remote Gem",
+    "license": "MIT",
+    "license_url": "https://opensource.org/licenses/MIT",
+    "origin": "Ns",
+    "origin_url": "https://github.com/NigelGSharpUK/NsRemoteGem",
+    "origin_uri":"https://github.com/NigelGSharpUK/NsRemoteGem/archive/main.zip",
+    "repo_uri":"https://raw.githubusercontent.com/NigelGSharpUK/NsRemoteGem/main",
+    "type": "Code",
+    "summary": "Trial Remote Code Gem",
+    "canonical_tags": [
+        "Gem"
+    ],
+    "user_tags": [
+        "NsRemoteGem"
+    ],
+    "icon_path": "preview.png",
+    "requirements": "",
+    "documentation_url": "https://github.com/NigelGSharpUK/NsRemoteGem",
+    "dependencies": [],
+    "restricted": "NsRemoteGem"
+}
