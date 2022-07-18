@@ -4,9 +4,9 @@
     "license": "MIT",
     "license_url": "https://opensource.org/licenses/MIT",
     "origin": "Ns",
-    "origin_url": "https://github.com/NigelGSharpUK/NsRemoteGem/main",
+    "origin_url": "https://github.com/NigelGSharpUK/NsRemoteGem/master",
     "origin_uri":"https://github.com/NigelGSharpUK/NsRemoteGem/releases/download/V1/main.zip",
-    "repo_uri":"https://raw.githubusercontent.com/NigelGSharpUK/NsRemoteGem/main",
+    "repo_uri":"https://raw.githubusercontent.com/NigelGSharpUK/NsRemoteGem/master",
     "type": "Code",
     "summary": "Trial Remote Code Gem",
     "canonical_tags": [
