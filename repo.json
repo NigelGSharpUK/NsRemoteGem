@@ -3,9 +3,9 @@
     "origin":"Ns",
     "repo_uri": "https://raw.githubusercontent.com/NigelGSharpUK/NsRemoteGem/main",
     "summary": "A Gem Repository with a single Gem in the root of the repository.",
-    "additional_info": "I have not supplied additional info",
+    "additional_info": "Based on https://github.com/AMZN-alexpete/o3de-remote-gem-repo-demo",
     "last_updated": "2022-07-18",
     "gems": [
-        "https://raw.githubusercontent.com/AMZN-alexpete/NsReomteGem/main"
+        "https://raw.githubusercontent.com/NigelGSharpUK/NsRemoteGem/main"
     ]
 }
