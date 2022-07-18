@@ -1,11 +1,11 @@
 {
     "repo_name":"NsRemoteGemRepo",
     "origin":"Ns",
-    "repo_uri": "https://raw.githubusercontent.com/NigelGSharpUK/NsRemoteGem/main",
+    "repo_uri": "https://raw.githubusercontent.com/NigelGSharpUK/NsRemoteGem/master",
     "summary": "A Gem Repository with a single Gem in the root of the repository.",
     "additional_info": "Based on https://github.com/AMZN-alexpete/o3de-remote-gem-repo-demo",
     "last_updated": "2022-07-18",
     "gems": [
-        "https://raw.githubusercontent.com/NigelGSharpUK/NsRemoteGem/main"
+        "https://raw.githubusercontent.com/NigelGSharpUK/NsRemoteGem/master"
     ]
 }
